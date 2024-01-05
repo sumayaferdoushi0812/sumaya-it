@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/index\ ima\).jpg);
+    background-repeat: no-repeat;
+
+}
+
+
+
+table{ 
+    border: 2px solid black;
+     
+    border-collapse: collapse;
+
+}
+tr,td,th{
+    border: 2px solid red ;
+    padding: 10px; 
+}
+tr:nth-child(even){
+    color: rgb(19, 19, 226);
+    background-color: aquamarine;
+} 
